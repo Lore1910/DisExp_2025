@@ -3,3 +3,4 @@ Repositorio para el curso de Diseños Experimentales enero 2025
 
 ## Contenido temático 
 - 20/01/2025: Seseión de Inicio de curso
+- 26/03/2025: Inicia Sesión práctica de R 
