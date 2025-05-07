@@ -30,3 +30,4 @@ boxplot(Datos$Ansiedad~Datos$Grupo,
         col= "pink",
         xlab= "Grupo",
         ylab= "Nivel de ansiedad")
+
