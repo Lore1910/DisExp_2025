@@ -14,3 +14,6 @@ Repositorio para el curso de Diseños Experimentales enero 2025
 - 12/05/2025: Experimento Sofi
 - 21/05/2025: Experimento Tamara
 - 30/05/2025: Examen Final
+
+##  Gráfica de contribución 
+![Image](https://github.com/user-attachments/assets/29c83156-bb87-45ff-86e1-a6d277c07790)
