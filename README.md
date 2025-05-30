@@ -1,6 +1,11 @@
 # DisExp_2025
 Repositorio para el curso de Diseños Experimentales enero 2025
 
+## Base de datos
++ Carpeta: Laboratorios y prácticas R
++ Carpeta: Laboratorios y prácticas pdf
++ Carpeta: Laboratorios y prácticas htm 
+
 ## Contenido temático 
 - 20/01/2025: Seseión de Inicio de curso
 - 12/03/2025: Teoría de diseños experimentales
